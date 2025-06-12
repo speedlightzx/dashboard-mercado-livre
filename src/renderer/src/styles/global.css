@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.ativo {
+    color: white;
+    display: flex;
+    background: blue;
+    border-radius: 10px;
+}

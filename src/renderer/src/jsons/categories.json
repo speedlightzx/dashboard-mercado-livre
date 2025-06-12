@@ -1,0 +1,28 @@
+{
+    "categorias": [
+        {
+            "nome": "Naninhas",
+            "id": "MLB417898"
+          },
+          {
+            "nome": "Banheiras",
+            "id": "MLB40602"
+          },
+          {
+            "nome": "Troninhos",
+            "id": "MLB86696"
+          },
+          {
+            "nome": "Cangurus",
+            "id": "MLB40402"
+          },
+          {
+            "nome": "Wrap Slings",
+            "id": "MLB270883"
+          },
+          {
+            "nome": "Outros",
+            "id": "MLB6156"
+          }
+    ]
+}
